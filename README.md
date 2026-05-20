@@ -11,4 +11,4 @@ If you want to chat about tech or collaborate, you can reach me at jacob_oscar@i
 Fun Facts:
 * I've climbed Mount Snowdon and snorkelled the Great Barrier Reef
 * I play both 5 and 11-a-side football
-* Hobbies: running, swimming, travel, and hitting the gym
+* Hobbies: running, swimming, travel, gym
