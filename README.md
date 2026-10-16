@@ -1,14 +1,26 @@
-### Hey there!
+### Hi, I'm Jacob
 
-I'm Jacob, a computer science student based in the UK.
+Computer Science student at the University of Surrey | Web and Android development
 
-I love building practical software and designing applications that solve real-world problems. If a cool concept pops into my head, chances are I'm going to try and build it.
+I enjoy turning ideas into working software, and I care about building things properly: tested, automated and actually deployed.
 
-My current focus is expanding my fitness and gym tracker application, where I've been experimenting with responsive layouts, interactive training charts, and animated navigation. Aside from software design, I also enjoy building custom desktop PCs from scratch.
+Currently
+Studying for a BSc in Computer Science (with Professional Training Year), Year 1: 2:1
+Looking for a 12-month industrial placement in technology starting in 2027
+Featured projects
 
-If you want to chat about tech or collaborate, you can reach me at jacob_oscar@icloud.com or find me on LinkedIn.
+Custom PC Builder · code Plan a PC in 3D, check your parts are compatible and see estimated gaming performance. Backed by real benchmark data and over 1,600 automated tests. React, three.js, Supabase, Playwright, GitHub Actions
 
-Fun Facts:
-* I've climbed Mount Snowdon and snorkelled the Great Barrier Reef
-* I play both 5 and 11-a-side football
-* Hobbies: running, swimming, travel, gym
+IronPulse An Android fitness tracker for workouts, personal records and nutrition. Works fully offline and keeps all data on the device. Java, Android SDK, JUnit
+
+Tech stack
+
+Java · JavaScript · React · SQL / PostgreSQL · Supabase · Android · Git · GitHub Actions
+
+Outside of coding
+
+Football (5 and 11-a-side), running, the gym and travelling.
+
+Get in touch
+
+Always happy to chat about tech or placement opportunities: jacob_oscar@icloud.com
